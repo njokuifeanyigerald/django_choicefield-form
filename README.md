@@ -1,0 +1,1 @@
+how to use choicefields in django forms
